@@ -1,0 +1,1 @@
+obj-$(CONFIG_MTK_SAR_SX9328) += sx932x.o

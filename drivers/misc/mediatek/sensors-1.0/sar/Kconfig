@@ -1,0 +1,9 @@
+config MTK_SAR_SX9328
+	bool "SX9328 for MediaTek package"
+	default n
+	help
+      It support different type sensor
+	  in this platform. If this option
+	  is set, it will support sar sensor 
+	  sx9382.
+

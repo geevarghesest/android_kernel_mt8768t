@@ -1,0 +1,3 @@
+obj-$(CONFIG_SND_SMARTPA_AW8838) += aw8838_l.o
+obj-$(CONFIG_SND_SMARTPA_AW8838) += aw8838_r.o
+

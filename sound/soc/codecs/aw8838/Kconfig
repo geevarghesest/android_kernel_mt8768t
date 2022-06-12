@@ -1,0 +1,9 @@
+#
+# SoC audio configuration
+#
+
+config SND_SMARTPA_AW8838
+	tristate "SoC Audio for awinic aw8838 series"
+	depends on I2C
+	help
+		This option enables support for aw8838 series Smart PA.
